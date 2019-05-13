@@ -1,0 +1,22 @@
+opam-version: "2.0"
+maintainer: "Nathan Rebours <nathan.p.rebours@gmail.com>"
+author: "Nathan Rebours <nathan.p.rebours@gmail.com>"
+homepage: "https://github.com/NathanReb/lol"
+bug-reports: "https://github.com/NathanReb/lol/issues"
+license: "BSD-2"
+dev-repo: "git+https://github.com/NathanReb/lol.git"
+doc: "https://nathanreb.github.io/lol/doc"
+build: [
+  [ "dune" "build" "-p" name "-j" jobs ]
+]
+run-test: [
+  [ "dune" "runtest" "-p" name "-j" jobs ]
+]
+depends: [
+  "dune" {build}
+  "ocaml" {>= "4.04.2"}
+]
+synopsis: "Some dummy package"
+description: """
+Test package please ignore
+"""
