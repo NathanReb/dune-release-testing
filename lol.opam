@@ -1,11 +1,11 @@
 opam-version: "2.0"
 maintainer: "Nathan Rebours <nathan.p.rebours@gmail.com>"
 author: "Nathan Rebours <nathan.p.rebours@gmail.com>"
-homepage: "https://github.com/NathanReb/lol"
-bug-reports: "https://github.com/NathanReb/lol/issues"
+homepage: "https://github.com/NathanReb/dune-release-testing"
+bug-reports: "https://github.com/NathanReb/dune-release-testing/issues"
 license: "BSD-2"
-dev-repo: "git+https://github.com/NathanReb/lol.git"
-doc: "https://nathanreb.github.io/lol/doc"
+dev-repo: "git+https://github.com/NathanReb/dune-release-testing.git"
+doc: "https://nathanreb.github.io/dune-release-testing/doc"
 build: [
   [ "dune" "build" "-p" name "-j" jobs ]
 ]
