@@ -1,7 +1,7 @@
 opam-version: "2.0"
 maintainer: "Nathan Rebours <nathan.p.rebours@gmail.com>"
 author: "Nathan Rebours <nathan.p.rebours@gmail.com>"
-homepage: "https://github.com/NathanReb/dune-release-testing"
+homepage: "me.com/dummy.html"
 bug-reports: "https://github.com/NathanReb/dune-release-testing/issues"
 license: "BSD-2"
 dev-repo: "git+https://github.com/NathanReb/dune-release-testing.git"
