@@ -1,3 +1,7 @@
+## unreleased
+
+- Extract library
+
 ## v0.1.0+test
 
 - Mention version in `dummy`'s output
