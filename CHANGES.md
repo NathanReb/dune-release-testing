@@ -1,3 +1,7 @@
+## unreleased
+
+- Mention version in `dummy`'s output
+
 ## v0.0.0+test
 
 *2019-05-21*
