@@ -5,7 +5,7 @@ homepage: "me.com/dummy.html"
 bug-reports: "https://github.com/NathanReb/dune-release-testing/issues"
 license: "BSD-2"
 dev-repo: "git+https://github.com/NathanReb/dune-release-testing.git"
-doc: "https://nathanreb.github.io/dune-release-testing/doc"
+doc: "https://nathanreb.github.io/dune-release-testing"
 build: [
   [ "dune" "build" "-p" name "-j" jobs ]
 ]
