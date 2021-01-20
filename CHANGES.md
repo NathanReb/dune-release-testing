@@ -1,3 +1,7 @@
+## v0.3.0~beta1
+
+- Add some beta feature
+
 ## v0.2.0+test
 
 - Extract library
