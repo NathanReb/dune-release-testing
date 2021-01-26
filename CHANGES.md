@@ -1,3 +1,7 @@
+## v0.2.1+test
+
+- Some bug fix
+
 ## v0.2.0+test
 
 - Extract library
