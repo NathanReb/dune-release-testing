@@ -1,3 +1,7 @@
+## v0.3.0~beta2
+
+- Change license
+
 ## v0.3.0~beta1
 
 - Add some beta feature

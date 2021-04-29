@@ -3,7 +3,7 @@ maintainer: "Nathan Rebours <nathan.p.rebours@gmail.com>"
 author: "Nathan Rebours <nathan.p.rebours@gmail.com>"
 homepage: "me.com/dummy.html"
 bug-reports: "https://github.com/NathanReb/dune-release-testing/issues"
-license: "BSD-2"
+license: "ISC"
 dev-repo: "git+https://github.com/NathanReb/dune-release-testing.git"
 doc: "https://nathanreb.github.io/dune-release-testing"
 build: [
